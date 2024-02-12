@@ -2,7 +2,7 @@
 
 API a usar:
 
-Films: [https://catfact.ninja/fact](https://www.omdbapi.com/)
+Films: (https://www.omdbapi.com/)
 
 Requerimientos:
 
