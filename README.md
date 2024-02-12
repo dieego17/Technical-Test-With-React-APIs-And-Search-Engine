@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+API a usar:
 
-Currently, two official plugins are available:
+Films: [https://catfact.ninja/fact](https://www.omdbapi.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Requerimientos:
+
+Necesita mostrar un input para buscar la película y un botón para buscar.
+
+Lista las películas y muestra el título, año y poster.
+
+Que el formulario funcione
+
+Haz que las películas se muestren en un grid responsive.
+
+Hacer el fetching de datos a la API
